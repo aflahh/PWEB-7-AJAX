@@ -1,0 +1,31 @@
+{
+    "Keyboard": [
+        "Logitech",
+        "Rexus",
+        "Razer",
+        "Redragon",
+        "Corsair"
+    ],
+    "Monitor": [
+        "Samsung S22F350H",
+        "Dell P2314T",
+        "HP LED 24MH",
+        "ThinkVision X24 Pro"
+    ],
+    "Mouse": [
+        "Logitech",
+        "Microsoft",
+        "Apple",
+        "Philips",
+        "Razer"
+    ],
+    "Headseat": [
+        "JETEX P1",
+        "Razer Blackshark V2",
+        "HyperX Cloud II",
+        "Steelseries Arctis 9X",
+        "Razer Kraken X",
+        "Creative SXFI Gamer",
+        "Sennheiser GSP 670"
+    ]
+}
